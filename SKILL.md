@@ -3,8 +3,9 @@ name: deconstruct-dating-apps
 description: Apply forensic analysis to modern romance and dating culture, exposing the algorithmic absurdity, transactional nature, and impossible expectations of finding love through digital platforms.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3794
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - comedy
